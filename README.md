@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rajkumar's Developer Portfolio 🌐
 
 Welcome to my personal developer portfolio built using modern web technologies. I’m a passionate Full Stack Developer and PowerApps Consultant from India, crafting solutions that blend creativity, performance, and functionality.
@@ -27,3 +28,6 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/rajkumar-m-2a1a411b2) or
 
 ✨ *Thanks for checking out my portfolio! Drop a ⭐ if you like it.*
 
+=======
+# Rajkumar-Portfolio
+>>>>>>> e9595618383997d1c21774df92a0b04924cfb367
